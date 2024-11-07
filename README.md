@@ -1,13 +1,13 @@
 # INET4031 Add Users Script and User List
 
 ## Program Description
-Detailed and helpful description goes here. Answer what the code does here.
+The code reads information from an inputted file and processes each line and outputs the commands needed to create the users and add them to their set groups. 
 
 ## Program Operation
-Detailed and helpful description goes here. How does a user run the code? What do they need?
+For this code to work you will need to provide the: username,password,first_name,last_name,which_group
 
-Maybe use a bullet list:
+Technical Prerequisites:
 
-1. step one
-2. step two
-3. step three
+1. Python3 needs to be installed on your server.
+2. Authorization to use Sudo on your server.
+3. Make sure input file is in the same directory. 

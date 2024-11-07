@@ -1,7 +1,7 @@
 # INET4031 Add Users Script and User List
 
 ## Program Description
-The code reads information from an inputted file and processes each line and outputs the commands needed to create the users and add them to their set groups. 
+This code reads information from an inputted file and processes each line then outputs the commands needed to create the users and add them to their set groups. 
 
 ## Program Operation
 For this code to work you will need to provide the: username,password,first_name,last_name,which_group
